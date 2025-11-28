@@ -10,4 +10,4 @@ Xa Ya Xb Yb Xc Yc
 Points must be inatgers.
 check example_input.txt
 
-![screenshot](../screanshots/Pasted\ image.png "Text to show on mouseover")
+![screenshot](../screanshots/screenshot.png)
