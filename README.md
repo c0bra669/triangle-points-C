@@ -9,5 +9,5 @@ Xa Ya Xb Yb Xc Yc
 ```
 Points must be inatgers.
 check example_input.txt
-
+## output:
 ![screenshot](/screanshots/screenshot.png)
