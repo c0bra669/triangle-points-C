@@ -10,4 +10,4 @@ Xa Ya Xb Yb Xc Yc
 Points must be inatgers.
 check example_input.txt
 
-![screenshot](../screanshots/screenshot.png)
+![screenshot](/screanshots/screenshot.png)
